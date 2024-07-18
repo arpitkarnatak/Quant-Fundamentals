@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "968d140f579bdee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8227b43f0f012784",
+        "type": "tabs",
+        "dimension": 65.0088809946714,
+        "children": [
+          {
+            "id": "385d7df08805a01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Contract/forward contract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6562394057a63b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Contract/forward contract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b49fc643cb94c27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Contract/forward price.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a302a280f959764d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Contract/forward price.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0cd4e122af567617",
+        "type": "tabs",
+        "dimension": 34.9911190053286,
+        "children": [
+          {
+            "id": "101808749f5cb63a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0f362f9691700e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e331dc82a26b596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8bfceaf772e5169",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c3c6b9d725aed2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57aeba0f5efabc65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e01d7a5ca372593",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed37a6dadd39148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80466cbcefca448c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Financial Contract/forward price.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f527b92406001216",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Financial Contract/forward price.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5146a11148f83c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a43b42fb08780b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Financial Contract/forward price.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a302a280f959764d",
+  "lastOpenFiles": [
+    "Financial Contract/Options.md",
+    "Forward Pricing/forward pricing.md",
+    "Financial Contract/cash transaction.md",
+    "Financial Contract/forward price.md",
+    "Forward Pricing",
+    "Financial Contract/forward contract.md",
+    "Financial Contract/Untitled",
+    "Financial Contract/Contracts.md",
+    "Welcome.md",
+    "Financial Contract/forward transaction.md",
+    "Financial Contract"
+  ]
+}
